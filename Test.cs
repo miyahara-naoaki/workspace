@@ -3,7 +3,7 @@ class Test
 {
     static void Main(string[] args)
     {
-        // リモート側を変更しました
+        // ローカル側を変更しました
         string flg = "No";
         string input1 = Console.ReadLine();
         string input2 = Console.ReadLine();
