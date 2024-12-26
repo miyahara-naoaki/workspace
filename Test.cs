@@ -3,7 +3,7 @@ class Test
 {
     static void Main(string[] args)
     {
-        // ローカル側を変更しました
+        // 練習
         string flg = "No";
         string input1 = Console.ReadLine();
         string input2 = Console.ReadLine();
